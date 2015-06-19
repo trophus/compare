@@ -18,4 +18,4 @@ defmodule Compare do
   end
 end
 
-Compare.distance(%{"latitude" => 39.0562619, "longitude" => -77.13000090000003},%{"latitude" => 38.9909652, "longitude" => -76.92953649999998})
+# Compare.distance(%{"latitude" => "39.0562619, "longitude" => -77.13000090000003},%{"latitude" => 38.9909652, "longitude" => -76.92953649999998})
